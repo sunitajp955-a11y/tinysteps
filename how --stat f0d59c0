@@ -1,0 +1,11 @@
+[33me593c94[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m trigger fresh build
+[33mf0d59c0[m add missing screen components
+[33m22bac4e[m upgrade to Node 20
+[33m4b35685[m use npm install instead of npm ci
+[33m1bc9676[m add gitignore
+[33ma815d5c[m add package-lock.json
+[33m7ea7f11[m add index.html
+[33mb24d10f[m Add data context, custom hooks, and common components
+[33mbd88ef8[m Add all source files: data layer, hooks, components, and screens
+[33m8e132d3[m Add global styles
+[33m9979443[m Add App component
